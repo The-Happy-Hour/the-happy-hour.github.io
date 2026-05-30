@@ -1,0 +1,12 @@
+{
+  "BRAND_NAME": "The Happy Hour",
+  "BRAND_LINK": "https://thehappyhour.org",
+  "MANAGER_ID": "https://t.me/its_scarface_bot",
+  "MAIN_CHANNEL": "https://t.me/thehappyhour_org",
+  "MAIN_GROUP": "https://t.me/Thappyhour",
+  "HOW_TO_SAVE_FILE": "https://t.me/how_to_save_file",
+  "HIGH_SPEED_DOWNLOAD": "https://t.me/High_Speed_Download_Method",
+
+  "start_text": "├⸻⸻⸻⸻⸻⸻\n├ 🎏 I Am #Minato...\n├⸻⸻⸻⸻⸻⸻\n├ I provide kind of content to users.\n├ and it's completely #free.\n├⸻⸻⸻⸻⸻⸻\n├ 🔮 By <a href={BRAND_LINK}>{BRAND_NAME}</a> 🌿\n├⸻⸻⸻⸻⸻⸻",
+  "premium_text": "├⸻⸻⸻⸻⸻⸻\n├ <b>💎 PREMIUM UPGRADE</b>\n├⸻⸻⸻⸻⸻⸻\n├ <b>📌 Benefits:</b>\n├\n├ <b>Ad-Free:</b> Zero distractions\n├ <b>Direct Links:</b> Fast download link\n├ <b>AI Scan:</b> AI-Language scanning\n├ <b>No Limit:</b> Get unlimited files\n├ <b>No Captcha:</b> Skip verification\n├⸻⸻⸻⸻⸻⸻\n├ <b>🔰 Membership Plans:</b>\n├\n├ <b>1 Month:</b> ₹49\n├ <b>3 Month:</b> ₹139\n├ <b>6 Month:</b> ₹249\n├ <b>1 Year:</b> ₹399\n├⸻⸻⸻⸻⸻⸻\n├ <i>👇 Select a plan to activate instantly.</i>\n├⸻⸻⸻⸻⸻⸻",
+}
